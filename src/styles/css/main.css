@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    margin: 5% 20%;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+
+button {
+    border: 1px solid black;
+    border-radius: 4%;
+    background-color: rgb(243, 240, 240);
+    padding: 1%;
+  }
